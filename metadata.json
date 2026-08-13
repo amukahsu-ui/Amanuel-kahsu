@@ -1,0 +1,6 @@
+{
+  "name": "MHH VIP Transport",
+  "description": "Safe and comfortable VIP transport for families, ladies, and students across Jazan, Jeddah, Al Madinah and all Saudi regions. Features 3D vehicle viewer, fare calculator, and AI concierge assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
